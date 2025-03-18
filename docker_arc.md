@@ -7,6 +7,7 @@ Docker uses a client-server architecture. The Docker client communicates with th
 
 ## Docker Architecture Flow
 ![Docker Architecture](./images/arc.gif)
+gif credit - vikas rajput
 
 
 ## Key Components
